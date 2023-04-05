@@ -1,5 +1,5 @@
-
 #JavaScript Cheat Sheet
+
 This is a cheat sheet for JavaScript, covering basic and advanced concepts of the language.
 
 Contents
